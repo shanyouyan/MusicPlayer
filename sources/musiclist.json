@@ -1,0 +1,83 @@
+[
+  {
+    "name": "为你我受冷风吹",
+    "singer": "胡彦斌",
+    "ablum": "太歌",
+    "time": "04:39",
+    "link_url": "./sources/胡彦斌 - 为你我受冷风吹.mp3",
+    "cover": "./sources/man.jpg",
+    "link_lrc": "./sourcesman.txt"
+  },
+  {
+    "name": "原来你也在这里",
+    "singer": "刘若英",
+    "ablum": "我的失败与伟大",
+    "time": "03:39",
+    "link_url": "./sources/刘若英 - 原来你也在这里.mp3",
+    "cover": "./sources/naicha.jpg",
+    "link_lrc": "./sources/naicha.txt"
+  },
+  {
+    "name": "听海",
+    "singer": "张惠妹",
+    "ablum": "AMeiZING Live 世界巡回演唱会",
+    "time": "03:13",
+    "link_url": "./sources/张惠妹 - 听海 (Live).mp3",
+    "cover": "./sources/amei.jpg",
+    "link_lrc": "./sources/amei.txt"
+  },
+  {
+    "name": "阿果吉曲",
+    "singer": "海来阿木",
+    "ablum": "阿果吉曲",
+    "time": "03:45",
+    "link_url": "./sources/海来阿木 - 阿果吉曲.mp3",
+    "cover": "./sources/timg.jpg",
+    "link_lrc": "./sources/timg.txt"
+  },
+  {
+    "name": "为爱痴狂",
+    "singer": "金志文",
+    "ablum": "《花火》电视片头曲",
+    "time": "02:21",
+    "link_url": "./sources/金志文 - 为爱痴狂.mp3",
+    "cover": "./sources/jin.jpg",
+    "link_lrc": "./sources/jin.txt"
+  },
+  {
+    "name": "十九岁",
+    "singer": "赵雷",
+    "ablum": "无法长大",
+    "time": "03:53",
+    "link_url": "./sources/赵雷 - 十九岁.mp3",
+    "cover": "./sources/yearOld.jpg",
+    "link_lrc": "./sources/yearOld.txt"
+  },
+  {
+    "name": "夜空中最亮的星",
+    "singer": "逃跑计划",
+    "ablum": "世界",
+    "time": "04:12",
+    "link_url": "./sources/逃跑计划 - 夜空中最亮的星.mp3",
+    "cover": "./sources/star.jpg",
+    "link_lrc": "./sources/star.txt"
+  },
+  {
+    "name": "郭源潮",
+    "singer": "宋冬野",
+    "ablum": "空港曲",
+    "time": "07:26",
+    "link_url": "./sources/宋冬野 - 郭源潮.mp3",
+    "cover": "./sources/guo.jpg",
+    "link_lrc": "./sources/guo.txt"
+  },
+  {
+    "name": "南方姑娘",
+    "singer": "赵雷",
+    "ablum": "赵小雷",
+    "time": "05:32",
+    "link_url": "./sources/赵雷 - 南方姑娘.mp3",
+    "cover": "./sources/girl.jpg",
+    "link_lrc": "./sources/girl.txt"
+  }
+]
